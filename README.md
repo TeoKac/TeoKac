@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @TeoKac
 - 👀 I’m interested in QA Engineering like coding automation tests and manual app testing
-- 🌱 I’m currently employed as a QA Engineer, working with Cypress.io for automation testing & manual testing  
+- 🌱 I’m currently employed as a QA Engineer
